@@ -8,6 +8,8 @@ examples soon. If you're interested in contributing to existing notebooks or
 adding new ones please consult the guide on
 :ref:`contributing_example_notebooks`.
 
+YESY
+
 .. note::
 
     The Fairlearn API is still evolving, so if you want to run these
